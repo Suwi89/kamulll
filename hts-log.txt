@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Jun 2024 11:07:04 at https://st.ourhtmldemo.com/template/consult-press/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://st.ourhtmldemo.com/template/consult-press/index.html -O1 "C:\My Web Sites\kamulll" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/css/fonts/glyphicons-halflings-regular.eot (from https://st.ourhtmldemo.com/template/consult-press/css/bootstrap/bootstrap.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/css/fonts/glyphicons-halflings-regular.eot? (from https://st.ourhtmldemo.com/template/consult-press/css/bootstrap/bootstrap.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/css/fonts/glyphicons-halflings-regular.woff2 (from https://st.ourhtmldemo.com/template/consult-press/css/bootstrap/bootstrap.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/css/fonts/glyphicons-halflings-regular.woff (from https://st.ourhtmldemo.com/template/consult-press/css/bootstrap/bootstrap.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/css/fonts/glyphicons-halflings-regular.ttf (from https://st.ourhtmldemo.com/template/consult-press/css/bootstrap/bootstrap.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/css/fonts/glyphicons-halflings-regular.svg (from https://st.ourhtmldemo.com/template/consult-press/css/bootstrap/bootstrap.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/openhand.cur (from https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/settings.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/closedhand.cur (from https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/settings.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/assets/gridtile.png (from https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/settings.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/assets/gridtile_white.png (from https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/settings.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/assets/gridtile_3x3.png (from https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/settings.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/assets/gridtile_3x3_white.png (from https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/settings.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/assets/coloredbg.png (from https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/settings.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/assets/loader.gif (from https://st.ourhtmldemo.com/template/consult-press/vendor/revolution/settings.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/fancy-box/blank.gif (from https://st.ourhtmldemo.com/template/consult-press/vendor/fancy-box/jquery.fancybox.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/fancy-box/fancybox_sprite@2x.png (from https://st.ourhtmldemo.com/template/consult-press/vendor/fancy-box/jquery.fancybox.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/fancy-box/fancybox_loading@2x.gif (from https://st.ourhtmldemo.com/template/consult-press/vendor/fancy-box/jquery.fancybox.css)
+11:08:52	Error: 	"Not Found" (404) at link https://st.ourhtmldemo.com/template/consult-press/vendor/owl-carousel/owl.video.play.png (from https://st.ourhtmldemo.com/template/consult-press/vendor/owl-carousel/owl.carousel.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 276 links scanned, 257 files written (10373188 bytes overall) [7291412 bytes received at 67513 bytes/sec], 4553964 bytes transferred using HTTP compression in 89 files, ratio 29%, 25.0 requests per connection
+(18 errors, 0 warnings, 0 messages)
